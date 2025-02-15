@@ -1,2 +1,2 @@
 # Alpha-project-data
-All robot data from isaccgym
+All code from my Alpha project 
